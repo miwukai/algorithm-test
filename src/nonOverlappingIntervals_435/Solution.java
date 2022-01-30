@@ -1,4 +1,4 @@
-package NonOverlappingIntervals_435;
+package nonOverlappingIntervals_435;
 
 import java.util.Arrays;
 

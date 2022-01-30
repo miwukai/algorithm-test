@@ -1,4 +1,4 @@
-package BestTimeToBuyAndSellStock_121;
+package bestTimeToBuyAndSellStock_121;
 
 public class Solution {
 	public int maxProfit(int[] prices) {
